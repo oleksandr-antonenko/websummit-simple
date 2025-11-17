@@ -1,0 +1,6 @@
+node_modules/
+.env
+contacts.db
+contacts.csv
+screenshot.png
+*.log

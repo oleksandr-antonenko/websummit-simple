@@ -1,0 +1,15 @@
+{
+  "name": "websummit-simple",
+  "version": "1.0.0",
+  "description": "Simple contact scraper using ADB + Gemini AI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "better-sqlite3": "^12.4.1",
+    "dotenv": "^17.2.3"
+  }
+}
